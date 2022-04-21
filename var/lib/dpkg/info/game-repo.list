@@ -1,0 +1,14 @@
+./
+./data/
+./data/data/
+./data/data/com.termux/
+./data/data/com.termux/files/
+./data/data/com.termux/files/usr/
+./data/data/com.termux/files/usr/share/
+./data/data/com.termux/files/usr/share/doc/
+./data/data/com.termux/files/usr/share/doc/game-repo/
+./data/data/com.termux/files/usr/share/doc/game-repo/LICENSE
+./data/data/com.termux/files/usr/etc/
+./data/data/com.termux/files/usr/etc/apt/
+./data/data/com.termux/files/usr/etc/apt/sources.list.d/
+./data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list

@@ -1,0 +1,15 @@
+8f14330c3e6d7bdfe5c4f86a25bb3c93  data/data/com.termux/files/usr/bin/lzmadec
+c6da3d7f129a05de2dab4ec22991ab56  data/data/com.termux/files/usr/bin/xz
+4bb99f04274ef585f4e3d31a37e34d3e  data/data/com.termux/files/usr/bin/lzmainfo
+dc685a8033ffbc4daf77c9b8685eac2b  data/data/com.termux/files/usr/bin/xzdiff
+65193b81b7e7413df4534552adb5d3eb  data/data/com.termux/files/usr/bin/xzless
+685b22f287f4ef9ce525b1d9eadd39ea  data/data/com.termux/files/usr/bin/xzgrep
+3b9674ae72ba6454ee7274dc21cea150  data/data/com.termux/files/usr/bin/xzmore
+dc1c2615df3a27275c672b3728201a84  data/data/com.termux/files/usr/bin/xzdec
+0019b3e837ea54fb67cf7c9c18b97d87  data/data/com.termux/files/usr/share/man/man1/xzgrep.1.gz
+39037fb47a8f486f7f7baffc30a88565  data/data/com.termux/files/usr/share/man/man1/xzdec.1.gz
+531ce1160ad40dca94582ad62cb23f6d  data/data/com.termux/files/usr/share/man/man1/xz.1.gz
+8f886943f6e8ee2a162311a62d6c1228  data/data/com.termux/files/usr/share/man/man1/xzless.1.gz
+e0a5613060d7a5c16c93c3ec77bf7b36  data/data/com.termux/files/usr/share/man/man1/lzmainfo.1.gz
+99bb57735151c39dfe0aceb2185fe840  data/data/com.termux/files/usr/share/man/man1/xzmore.1.gz
+c51fe3945f373875c59be724ffcc8182  data/data/com.termux/files/usr/share/man/man1/xzdiff.1.gz

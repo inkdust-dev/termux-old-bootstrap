@@ -1,0 +1,9 @@
+80f8ce3f6d40e2985122315323480dc9  data/data/com.termux/files/usr/bin/diff3
+7fb0976e16bef5ea235a525f277e2894  data/data/com.termux/files/usr/bin/sdiff
+06b5d15a2a0d52a9d711ec7709d4e507  data/data/com.termux/files/usr/bin/diff
+ca66ea494471a7b5dd161f04be076215  data/data/com.termux/files/usr/bin/cmp
+83d9549c9834ab57e9fe7c9860177ab8  data/data/com.termux/files/usr/share/man/man1/diff.1.gz
+eebeb4ac8a1b1e67e65a66ecff924ff3  data/data/com.termux/files/usr/share/man/man1/diff3.1.gz
+3580499d774454489ab332e4d4a6b4bb  data/data/com.termux/files/usr/share/man/man1/cmp.1.gz
+ca2715345edeb767488431a9317dc824  data/data/com.termux/files/usr/share/man/man1/sdiff.1.gz
+a36df5fea44a2984d10a428e2c550a47  data/data/com.termux/files/usr/share/info/diffutils.info
